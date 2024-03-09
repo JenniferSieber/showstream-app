@@ -1,5 +1,5 @@
 #Show Stream
 
-#Movie Streaming App 
+Movie Streaming App 
 
 Vite, React, TypeScript, MaterialUI
